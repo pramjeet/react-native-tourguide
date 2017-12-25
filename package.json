@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/lwhiteley/react-native-tourguide#readme",
   "dependencies": {
-    "react-native-callout": "git+https://github.com/lwhiteley/react-native-callout.git"
+    "react-native-callout": "https://github.com/pramjeet/react-native-callout"
   }
 }
